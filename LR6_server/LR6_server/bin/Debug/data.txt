@@ -1,0 +1,5 @@
+philips 322 Peter 
+sony 1 Ivan 
+panasonic 2 Kolya 
+A1 3 Dasha 
+lg 7 Ja 

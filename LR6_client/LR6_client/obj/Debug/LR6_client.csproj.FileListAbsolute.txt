@@ -1,0 +1,30 @@
+c:\users\nikita\documents\visual studio 2015\Projects\LR6_client\LR6_client\bin\Debug\LR6_client.exe.config
+c:\users\nikita\documents\visual studio 2015\Projects\LR6_client\LR6_client\obj\Debug\LR6_client.csprojResolveAssemblyReference.cache
+c:\users\nikita\documents\visual studio 2015\Projects\LR6_client\LR6_client\obj\Debug\LR6_client.Form1.resources
+c:\users\nikita\documents\visual studio 2015\Projects\LR6_client\LR6_client\obj\Debug\LR6_client.Properties.Resources.resources
+c:\users\nikita\documents\visual studio 2015\Projects\LR6_client\LR6_client\obj\Debug\LR6_client.csproj.GenerateResource.Cache
+c:\users\nikita\documents\visual studio 2015\Projects\LR6_client\LR6_client\bin\Debug\LR6_client.exe
+c:\users\nikita\documents\visual studio 2015\Projects\LR6_client\LR6_client\bin\Debug\LR6_client.pdb
+c:\users\nikita\documents\visual studio 2015\Projects\LR6_client\LR6_client\obj\Debug\LR6_client.exe
+c:\users\nikita\documents\visual studio 2015\Projects\LR6_client\LR6_client\obj\Debug\LR6_client.pdb
+D:\Фото и доки\University\3 курс\РСОИ\LR6_client\LR6_client\bin\Debug\LR6_client.exe.config
+D:\Фото и доки\University\3 курс\РСОИ\LR6_client\LR6_client\obj\Debug\LR6_client.exe
+D:\Фото и доки\University\3 курс\РСОИ\LR6_client\LR6_client\obj\Debug\LR6_client.pdb
+D:\docs\3 курс\рсои\LR6_client\LR6_client\bin\Debug\LR6_client.exe.config
+D:\docs\3 курс\рсои\LR6_client\LR6_client\bin\Debug\LR6_client.exe
+D:\docs\3 курс\рсои\LR6_client\LR6_client\bin\Debug\LR6_client.pdb
+D:\docs\3 курс\рсои\LR6_client\LR6_client\obj\Debug\LR6_client.csprojResolveAssemblyReference.cache
+D:\docs\3 курс\рсои\LR6_client\LR6_client\obj\Debug\LR6_client.Form1.resources
+D:\docs\3 курс\рсои\LR6_client\LR6_client\obj\Debug\LR6_client.Properties.Resources.resources
+D:\docs\3 курс\рсои\LR6_client\LR6_client\obj\Debug\LR6_client.csproj.GenerateResource.Cache
+D:\docs\3 курс\рсои\LR6_client\LR6_client\obj\Debug\LR6_client.exe
+D:\docs\3 курс\рсои\LR6_client\LR6_client\obj\Debug\LR6_client.pdb
+D:\учуба\РСОИ\выполнение лаб\lr6\LR6_client\LR6_client\bin\Debug\LR6_client.exe.config
+D:\учуба\РСОИ\выполнение лаб\lr6\LR6_client\LR6_client\obj\Debug\LR6_client.exe
+D:\учуба\РСОИ\выполнение лаб\lr6\LR6_client\LR6_client\obj\Debug\LR6_client.pdb
+D:\учуба\РСОИ\выполнение лаб\lr6\LR6_client\LR6_client\bin\Debug\LR6_client.exe
+D:\учуба\РСОИ\выполнение лаб\lr6\LR6_client\LR6_client\bin\Debug\LR6_client.pdb
+D:\учуба\РСОИ\выполнение лаб\lr6\LR6_client\LR6_client\obj\Debug\LR6_client.csprojResolveAssemblyReference.cache
+D:\учуба\РСОИ\выполнение лаб\lr6\LR6_client\LR6_client\obj\Debug\LR6_client.Form1.resources
+D:\учуба\РСОИ\выполнение лаб\lr6\LR6_client\LR6_client\obj\Debug\LR6_client.Properties.Resources.resources
+D:\учуба\РСОИ\выполнение лаб\lr6\LR6_client\LR6_client\obj\Debug\LR6_client.csproj.GenerateResource.Cache
